@@ -25,6 +25,6 @@ def main(filename):
 
 if __name__ == "__main__":
     #filename = "example.txt"
-    #ilename = "exampleLarge.txt"
+    #filename = "exampleLarge.txt"
     filename = "input.txt"
     main(filename)
